@@ -29,7 +29,7 @@
                             <th>Bacon Stock</th>
                             <th>Gubat Stock</th>
                             <th class="text-end">Actions</th>
-                        </tr>
+                        </tr> 
                     </thead>
                     <tbody>
                         @forelse($products as $product)
